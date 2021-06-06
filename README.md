@@ -1,3 +1,3 @@
 # demo
 
-github is awesome
+github is awesome!
